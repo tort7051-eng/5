@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+/.idea
+.idea/5.iml
+.idea/inspectionProfiles/profiles_settings.xml
+*.xml
+/.idea
+.idea/vcs.xml
+.idea/5.iml
+/.idea
+/.idea
+/.idea
